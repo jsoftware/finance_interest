@@ -6,7 +6,7 @@ DESCRIPTION=: 0 : 0
 Various compound interest functions.
 )
 
-VERSION=: '1.0.10'
+VERSION=: '1.0.11'
 
 FILES=: 0 : 0
 interest.ijs
