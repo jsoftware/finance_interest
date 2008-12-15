@@ -37,6 +37,7 @@ NB.   int vt        term       v to the power t
 NB.   opt xirr       cf        as irr but with non-periodic payments
 NB.
 NB. where:
+NB.
 NB.   <intlist>  is an interest list, e.g. 0.09 5 0.08 3 0.075
 NB.   <intrate>  is a single interest rate, e.g. 0.075
 
