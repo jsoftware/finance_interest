@@ -6,10 +6,10 @@ DESCRIPTION=: 0 : 0
 Various compound interest functions.
 )
 
-VERSION=: '1.0.14'
+VERSION=: '1.0.15'
 
 FILES=: 0 : 0
 interest.ijs
 )
 
-RELEASE=: 'j802 j803 j804'
+RELEASE=: 'j802 j803 j804 j805'
