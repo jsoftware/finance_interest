@@ -1,4 +1,4 @@
-NB. test interest functions
+NB. test interest functions.
 
 load 'finance/interest'
 
@@ -49,4 +49,3 @@ smoutput 'test interest done'
 )
 
 test''
-
